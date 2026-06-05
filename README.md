@@ -16,9 +16,9 @@
 
 👉 **[🌐 网页·github发布版](https://waterinwater.github.io/ooshizu_perfectday/)**
 
-👉 **[🌐 网页·netlify发布版](https://ooshizuperfectday.netlify.app/)**
+👉 **[🌐 网页·netlify发布版](https://ooshizuperfectday.netlify.app/)**(每月有配额限制，配额用光后当月链接会失效，因此请优先使用github版或本地版游玩)
 
-👉 **[🖥️ 本地·windows版](https://pan.baidu.com/s/1vt9_W_Ii-K3rl5uwCE4yUA?pwd=n7rn)** (提取码：n7rn)
+👉 **[🖥️ 本地·win/mac版]([https://pan.baidu.com/s/1vt9_W_Ii-K3rl5uwCE4yUA?pwd=n7rn](https://pan.baidu.com/s/1-3jGzdnePzqANMbgfFTXng?pwd=oosz))** (提取码：oosz)
 
 
 
