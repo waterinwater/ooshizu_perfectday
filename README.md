@@ -50,15 +50,12 @@
 - **角色立绘 / CG / UI**：丁丁博士
 - **背景美术 / 封面设计 / 演出**：WaterInWater
 - **程序开发**：丁丁博士， WaterInWater
-- **图片素材**：[Unsplash](https://unsplash.com), [Pixabay](https://pixabay.com)
-- **图片素材**：[Pixabay](https://pixabay.com), [Freesound](https://freesound.org)
-
 - **特别感谢**：画了伟大g图的穗一老师！
 
 ## 🔴 版权信息
 - **原作**：《大秽》
 - **配对**：新木场绯色x台场佐清
 - **图片素材**：[Unsplash](https://unsplash.com), [Pixabay](https://pixabay.com)
-- **图片素材**：[Pixabay](https://pixabay.com), [Freesound](https://freesound.org)
+- **音乐素材**：[Pixabay](https://pixabay.com), [Freesound](https://freesound.org)
 
 
