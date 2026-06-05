@@ -53,6 +53,8 @@
 - **图片素材**：[Unsplash](https://unsplash.com), [Pixabay](https://pixabay.com)
 - **图片素材**：[Pixabay](https://pixabay.com), [Freesound](https://freesound.org)
 
+- **特别感谢**：画了伟大g图的穗一老师！
+
 ## 🔴 版权信息
 - **原作**：《大秽》
 - **配对**：新木场绯色x台场佐清
