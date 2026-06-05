@@ -18,7 +18,7 @@
 
 👉 **[🌐 网页·netlify发布版](https://ooshizuperfectday.netlify.app/)**
 
-👉 **🖥️ 本地·windows版（下载链接准备中）**
+👉 **[🖥️ 本地·windows版]（https://pan.baidu.com/s/1vt9_W_Ii-K3rl5uwCE4yUA?pwd=n7rn）** (提取码：n7rn)
 
 
 
